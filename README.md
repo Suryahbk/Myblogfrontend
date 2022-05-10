@@ -4,7 +4,7 @@
 
 # Deployed heroku Link
 
-https://mappingsj.herokuapp.com/
+
 
 # Backend Github Link
 
