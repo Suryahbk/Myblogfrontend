@@ -2,6 +2,8 @@
 
 # Deployed Netlify Link
 
+https://polite-semolina-c97325.netlify.app 
+ 
 # Deployed heroku Link
 
 
