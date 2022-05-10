@@ -12,5 +12,5 @@ https://github.com/Suryahbk/Myblogbackend
 
 # User login
 
-username: ayrus 
+username: ayrus, 
 password: qwerty
